@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Replace YOUR_DOMAIN_HERE with your real deployed domain before this is useful to search engines. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://YOUR_DOMAIN_HERE/</loc><priority>1.0</priority></url>
+  <url><loc>https://YOUR_DOMAIN_HERE/about</loc></url>
+  <url><loc>https://YOUR_DOMAIN_HERE/login</loc></url>
+  <url><loc>https://YOUR_DOMAIN_HERE/register</loc></url>
+  <url><loc>https://YOUR_DOMAIN_HERE/terms</loc></url>
+  <url><loc>https://YOUR_DOMAIN_HERE/privacy</loc></url>
+  <url><loc>https://YOUR_DOMAIN_HERE/risk-disclosure</loc></url>
+  <url><loc>https://YOUR_DOMAIN_HERE/careers</loc></url>
+</urlset>
